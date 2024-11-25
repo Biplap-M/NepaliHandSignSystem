@@ -1,0 +1,5 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore NSL_School_Vdos folder
+NSL_School_Vdos/
